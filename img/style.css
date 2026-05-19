@@ -1,0 +1,25 @@
+body{
+     font-family: "Playfair Display", serif;
+}
+
+.card-catrgory{
+     font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  font-height: 100%;
+  color: #84ad9e;
+}
+
+.card-title{
+    font-weight: 300;
+  font-size: 14px;
+  font-height: 100%;
+  color: #626262;
+}
+
+.card-text{
+    font-weight: 300;
+  font-size: 14px;
+  font-height: 100%;
+  color: #626262;
+}
